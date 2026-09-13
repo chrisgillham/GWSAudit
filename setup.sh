@@ -37,7 +37,7 @@ gcloud services enable \
     admin.googleapis.com \
     gmail.googleapis.com \
     drive.googleapis.com \
-    appsalerts.googleapis.com \
+    alertcenter.googleapis.com \
     chromemanagement.googleapis.com
 
 echo "==> Step 2: Provisioning Service Account..."
